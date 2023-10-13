@@ -9,8 +9,8 @@ export const Contact = () => {
       </div>
 <form className="form wid-80">
   <div className="title">Where we connect<br /><span>Contact</span></div>
-  <input type="email" placeholder="Email" name="email" className="input" />
-  <textarea type="text" placeholder="Message" name="password" className="input" />
+  <input type="email" placeholder="Email" name="email" className="input" required />
+  <textarea type="text" placeholder="Message" name="password" className="input" required/>
   <button className="button-confirm">Send →</button>
 </form>
 
