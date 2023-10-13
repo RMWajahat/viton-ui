@@ -11,7 +11,7 @@ export const Contact = () => {
   <div className="title">Where we connect<br /><span>Contact</span></div>
   <input type="email" placeholder="Email" name="email" className="input" required />
   <textarea type="text" placeholder="Message" name="password" className="input" required/>
-  <button className="button-confirm">Send →</button>
+  <a className="button-confirm" style={{textAlign:"center", paddingTop:"5px"}} onSubmit={()=>{alert("Response saved")}}>Send →</a>
 </form>
 
       
