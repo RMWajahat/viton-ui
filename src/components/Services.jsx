@@ -1,14 +1,14 @@
 import React from "react";
 import servise from "./services.json";
 import serviceperson from "./Servicepeople.json";
-import logo from "../assets/marketing.jpg";
+
 export const Services = () => {
   return (
     <>
       <marquee
         behavior=""
         direction="left"
-        scrollamount="12"
+        scrollamount="5"
         className="marquee"
       >
         <ul>
@@ -23,6 +23,12 @@ export const Services = () => {
           </li>
           <li>
             <i class="bx bxl-kubernetes"></i>
+          </li>
+          <li>
+            <i class="bx bxl-github"></i>
+          </li>
+          <li>
+            <i class="bx bxl-gitlab"></i>
           </li>
         </ul>
       </marquee>
