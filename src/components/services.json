@@ -1,0 +1,22 @@
+[
+    {
+        "image":"bx bxl-deezer",
+        "service":"Branding",
+        "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, magni."
+    },
+    {
+        "image":"bx bx-bookmark-minus",
+        "service":"Digital Marketing",
+        "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, magni."
+    },
+    {
+        "image":"bx bx-fast-forward",
+        "service":"UI/UX Design",
+        "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, magni."
+    },
+    {
+        "image":" bx bxl-figma",
+        "service":"Graphic Design",
+        "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, magni."
+    }
+]

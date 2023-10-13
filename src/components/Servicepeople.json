@@ -1,0 +1,17 @@
+[
+    {  
+        "sername":"Wajahat Hussain",
+        "work":"UI/UX Designer",
+        "perimage":"src/assets/wajahat.jpg"
+    },
+    {
+        "sername":"Saif",
+        "work":"Digital Marketer",
+        "perimage":"src/assets/marketing.jpg"
+    },
+    {
+        "sername":"Muhammad",
+        "work":"Photographer",
+        "perimage":"src/assets/photographer.jpg"
+    }
+]
